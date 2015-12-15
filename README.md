@@ -26,7 +26,7 @@ Thought you'd never ask 😉. I just made this because I was needed a break from
 
 - connect with me on [linkedin](https://www.linkedin.com/in/gnijuohz)  
 - try my [app](https://itunes.apple.com/us/app/geeksforgeeks-reader-read/id991254978?mt=8) and send your feedback. (The app is not completely free right now, but will be in the next version, 1.5.0. So you can download first and wait a few days. ;))
-- follow my on [twitter](https://twitter.com/gnijuohz).
+- follow me on [twitter](https://twitter.com/gnijuohz)... which I don't use very much...
 
 ## Feedback
 
